@@ -47,7 +47,7 @@
 
 
 # Import python packages
-pip install snowflake-connector-python
+!pip install snowflake-connector-python
 import streamlit as st
 from snowflake.snowpark.functions import col
 
